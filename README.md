@@ -1,1 +1,1 @@
-# RandoSQLS
+# RandomSQLS
